@@ -1,4 +1,6 @@
-![Screenshot](https://user-images.githubusercontent.com/109441438/194218837-9040a6b8-bb47-42ac-aae4-9afe4cd71738.png)
+VIDEO LINK
+https://drive.google.com/file/d/15t-pG2iHkhnY3lOl3Fa5PRmaF03YGLNt/view
+
 # ReadMe Generator
     ##### Contact Info
     [GitHub username] nitrammm 
@@ -44,3 +46,5 @@
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
     
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+![Screenshot](https://user-images.githubusercontent.com/109441438/194218837-9040a6b8-bb47-42ac-aae4-9afe4cd71738.png)
